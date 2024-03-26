@@ -1,0 +1,17 @@
+{
+    "firtName": "Jane",
+    "lastName": "Doe",
+    "hobbies": ["running", "swimming", "singing"],
+    "age": 28,
+    "hasChilden": true,
+    "children": [
+        {
+            "firtName": "Alex",
+            "age": 5
+        },
+        {
+            "firtName": "Bob",
+            "age": 7
+        }
+    ]
+}
